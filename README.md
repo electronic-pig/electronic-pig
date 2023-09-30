@@ -14,15 +14,14 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Vue
 
-### 🛠 To Learn
+### 📖 To Learn
 
 - 🔧 &nbsp; Azure | 🐳Docker | Springboot
 <br/>
 
 <a href="https://github.com/electronic-pig">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=electronic-pig&include_all_commits=true&hide=issues&count_private=true&show_icons=true&bg_color=45,8ecda7,839ece&title_color=fff&text_color=fff&icon_color=fff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=electronic-pig&include_all_commits=true&hide=issues&count_private=true&show_icons=true&rank_icon=github&bg_color=45,8ecda7,839ece&title_color=fff&text_color=fff&icon_color=fff" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=electronic-pig&show_icons=true&layout=compact&bg_color=45,839ece,8ecda7&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 
 <br/>
-⭐️ From [electronic-pig](https://github.com/electronic-pig)
