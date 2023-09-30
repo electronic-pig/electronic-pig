@@ -5,7 +5,7 @@
 
 - 🎓 &nbsp; Studying software engineering at Sichuan University.
 
-- 🤠 &nbsp; Interested at new technologies and software developing.
+- 🤠 &nbsp; Interested at new and awesome technologies .
 
 
 ### 🛠 Tech Stack
