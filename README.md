@@ -3,9 +3,9 @@
 
 ### 👨🏻 About Me 
 
-- 🎓 &nbsp; Studying software engineering at Sichuan University in Chengdu.
+- 🎓 &nbsp; Studying software engineering at Sichuan University.
 
-- 🤠 &nbsp; Interested at new technologies and developing software solutions.
+- 🤠 &nbsp; Interested at new technologies and software developing.
 
 
 ### 🛠 Tech Stack
@@ -21,7 +21,7 @@
 
 <a href="https://github.com/electronic-pig">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=electronic-pig&include_all_commits=true&hide=issues&count_private=true&show_icons=true&bg_color=45,8ecda7,839ece&title_color=fff&text_color=fff&icon_color=fff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=electronic-pig&show_icons=true&layout=compact&card_width=400&bg_color=45,839ece,8ecda7&title_color=fff&text_color=fff&icon_color=fff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=electronic-pig&show_icons=true&layout=compact&bg_color=45,839ece,8ecda7&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 
 <br/>
