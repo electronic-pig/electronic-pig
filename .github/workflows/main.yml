@@ -1,9 +1,9 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
+  # run automatically at 17:00 UTC time everyday
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 17 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
