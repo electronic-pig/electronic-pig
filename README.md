@@ -5,7 +5,7 @@
 
 - 🎓 &nbsp; Studying software engineering at Sichuan University.
 
-- 🤠 &nbsp; Interested at new and awesome technologies .
+- 🤠 &nbsp; Interested at leading-edge and trending technologies .
 
 ### 🛠 Tech Stack
 
@@ -15,7 +15,7 @@
 
 ### 📖 To Learn
 
-- 🔧 &nbsp; Azure | 🐳Docker | Springboot
+- 🔧 &nbsp; 🐳Docker | Springboot | flask
 
 <br/>
 <a href="https://github.com/electronic-pig">
