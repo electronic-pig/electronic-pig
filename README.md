@@ -1,6 +1,6 @@
 ![](assets/header.svg)
 ## Hi there!👋I'm electronic-pig.
-<img align='right' src="https://github.com/electronic-pig/electronic-pig/assets/103497254/77ec236d-96b9-4d49-91dd-5483703eb71d" width="450">
+<img align='right' src="./assets/image.gif" width="450">
 
 ### 👨🏻 About Me 
 
