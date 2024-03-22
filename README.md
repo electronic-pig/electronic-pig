@@ -1,5 +1,5 @@
 ![](assets/header.svg)
-## Hi there!👋I'm electronic-pig.
+# Hi there!👋I'm electronic-pig.
 <img align='right' src="./assets/image.gif" width="450">
 
 ### 👨🏻 About Me 
