@@ -1,6 +1,6 @@
 ![](assets/header.svg)
 # Hi there!👋I'm electronic-pig.
-<img align='right' src="./assets/image.gif" width="450">
+<img align='right' src="./assets/image.gif" width="450" alt="image">
 
 ### 👨🏻 About Me 
 
