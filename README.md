@@ -16,7 +16,7 @@
 
 ### 📖 To Learn
 
-- 🔧 &nbsp; 🐳Docker | Springboot | flask
+- 🔧 &nbsp; NLP | LLM | Agent
 
 <br/>
 <a href="https://github.com/electronic-pig">
