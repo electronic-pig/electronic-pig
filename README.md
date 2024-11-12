@@ -1,18 +1,18 @@
 ![](assets/header.svg)
-# Hi there!👋I'm electronic-pig.
+# Hi there!👋I'm Li Yang.
 <img align='right' src="./assets/image.gif" width="450" alt="image">
 
 ### 👨🏻 About Me 
 
 - 🎓 &nbsp; Studying software engineering at Sichuan University.
 
-- 🤠 &nbsp; Interested at leading-edge and trending technologies .
+- 🤠 &nbsp; Interested at interesting and trending technologies .
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 🌐 &nbsp; Python | Java | C++ | C | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Vue
+- 💻 &nbsp; HTML | CSS | JavaScript | Vue
 
 ### 📖 To Learn
 
